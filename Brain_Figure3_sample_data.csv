@@ -1,0 +1,67 @@
+location_id,factor_format,change,total,lancet_label,sort_order
+199,Change due to population growth,1.574317736,1.337297836,Western sub-Saharan Africa,869
+199,Change due to population ageing,-0.062951075,1.337297836,Western sub-Saharan Africa,869
+199,Change due to DALY rate,-0.174068824,1.337297836,Western sub-Saharan Africa,869
+192,Change due to population growth,0.794870342,1.247742817,Southern sub-Saharan Africa,853
+192,Change due to population ageing,0.082527827,1.247742817,Southern sub-Saharan Africa,853
+192,Change due to DALY rate,0.370344647,1.247742817,Southern sub-Saharan Africa,853
+174,Change due to population growth,1.260515017,0.98798392,Eastern sub-Saharan Africa,777
+174,Change due to population ageing,-0.047502565,0.98798392,Eastern sub-Saharan Africa,777
+174,Change due to DALY rate,-0.225028532,0.98798392,Eastern sub-Saharan Africa,777
+167,Change due to population growth,1.699417323,1.801798655,Central sub-Saharan Africa,770
+167,Change due to population ageing,-0.016955088,1.801798655,Central sub-Saharan Africa,770
+167,Change due to DALY rate,0.119336421,1.801798655,Central sub-Saharan Africa,770
+9,Change due to population growth,0.566384081,0.770989573,Southeast Asia,639
+9,Change due to population ageing,0.181710822,0.770989573,Southeast Asia,639
+9,Change due to DALY rate,0.02289467,0.770989573,Southeast Asia,639
+21,Change due to population growth,1.255322326,1.287100508,Oceania,620
+21,Change due to population ageing,0.010629252,1.287100508,Oceania,620
+21,Change due to DALY rate,0.02114893,1.287100508,Oceania,620
+5,Change due to population growth,0.196519053,0.043389607,East Asia,583
+5,Change due to population ageing,0.197188775,0.043389607,East Asia,583
+5,Change due to DALY rate,-0.35031822,0.043389607,East Asia,583
+159,Change due to population growth,0.698703662,0.585326886,South Asia,476
+159,Change due to population ageing,0.001782239,0.585326886,South Asia,476
+159,Change due to DALY rate,-0.115159015,0.585326886,South Asia,476
+138,Change due to population growth,0.877924186,0.907450181,North Africa and Middle East,422
+138,Change due to population ageing,0.161361389,0.907450181,North Africa and Middle East,422
+138,Change due to DALY rate,-0.131835394,0.907450181,North Africa and Middle East,422
+134,Change due to population growth,0.50767483,1.057987739,Tropical Latin America,391
+134,Change due to population ageing,0.327161263,1.057987739,Tropical Latin America,391
+134,Change due to DALY rate,0.223151646,1.057987739,Tropical Latin America,391
+124,Change due to population growth,0.657310847,1.078213185,Central Latin America,349
+124,Change due to population ageing,0.196012468,1.078213185,Central Latin America,349
+124,Change due to DALY rate,0.22488987,1.078213185,Central Latin America,349
+104,Change due to population growth,0.389301737,0.554587382,Caribbean,329
+104,Change due to population ageing,0.137665481,0.554587382,Caribbean,329
+104,Change due to DALY rate,0.027620165,0.554587382,Caribbean,329
+120,Change due to population growth,1.051973434,2.309829397,Andean Latin America,325
+120,Change due to population ageing,0.127906301,2.309829397,Andean Latin America,325
+120,Change due to DALY rate,1.129949662,2.309829397,Andean Latin America,325
+73,Change due to population growth,0.169151622,0.350591737,Western Europe,254
+73,Change due to population ageing,0.161458584,0.350591737,Western Europe,254
+73,Change due to DALY rate,0.019981532,0.350591737,Western Europe,254
+96,Change due to population growth,0.47231005,0.893646665,Southern Latin America,250
+96,Change due to population ageing,0.16257152,0.893646665,Southern Latin America,250
+96,Change due to DALY rate,0.258765096,0.893646665,Southern Latin America,250
+100,Change due to population growth,0.337379341,0.380840368,High-income North America,195
+100,Change due to population ageing,0.223924715,0.380840368,High-income North America,195
+100,Change due to DALY rate,-0.180463687,0.380840368,High-income North America,195
+65,Change due to population growth,0.073800409,0.507128068,High-income Asia Pacific,143
+65,Change due to population ageing,0.170065618,0.507128068,High-income Asia Pacific,143
+65,Change due to DALY rate,0.263262042,0.507128068,High-income Asia Pacific,143
+70,Change due to population growth,0.558793922,0.463047645,Australasia,138
+70,Change due to population ageing,0.229529618,0.463047645,Australasia,138
+70,Change due to DALY rate,-0.325275895,0.463047645,Australasia,138
+56,Change due to population growth,-0.099309201,0.110223567,Eastern Europe,43
+56,Change due to population ageing,0.099919826,0.110223567,Eastern Europe,43
+56,Change due to DALY rate,0.109612942,0.110223567,Eastern Europe,43
+42,Change due to population growth,-0.084544186,-0.009753665,Central Europe,13
+42,Change due to population ageing,0.168263968,-0.009753665,Central Europe,13
+42,Change due to DALY rate,-0.093473447,-0.009753665,Central Europe,13
+32,Change due to population growth,0.500267038,0.884598003,Central Asia,3
+32,Change due to population ageing,0.096985258,0.884598003,Central Asia,3
+32,Change due to DALY rate,0.287345707,0.884598003,Central Asia,3
+1,Change due to population growth,0.493954902,0.424227904,Global,1
+1,Change due to population ageing,0.142034002,0.424227904,Global,1
+1,Change due to DALY rate,-0.211761,0.424227904,Global,1
